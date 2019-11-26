@@ -1,6 +1,6 @@
-This code aims to estimate the triangles in the graph stream.  Thealgorithms used is based on [1], which applied the reservoir sampling methodon the graph stream data.
+This code aims to estimate the triangles in the graph stream.  The algorithms used is based on [1], which applied the reservoir sampling method on the graphical stream data.
 
-References
+References  
 @article{stefani2017triest,
   title={Triest: Counting local and global triangles in fully dynamic streams with fixed memory size},
   author={Stefani, Lorenzo De and Epasto, Alessandro and Riondato, Matteo and Upfal, Eli},
